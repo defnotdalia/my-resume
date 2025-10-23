@@ -9,4 +9,4 @@ A modern and fully responsive personal portfolio website designed to showcase pr
 - **Interactive Navigation:** Smooth transitions and a responsive navigation bar for easy browsing.  
 - **Customizable:** Easily editable sections for tailoring content to different job roles or industries.  
 
-# Live Link: 
+### Live Link: 
